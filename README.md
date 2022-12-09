@@ -4,14 +4,19 @@
 
 ⚫ 📪How to reach me: rmysaadgn@hotmail.com
 
+ 
+ <div align="center">
+
+[![GitHub followers](https://img.shields.io/github/followers/rumeysadogan?style=flat&logo=github)](https://github.com/rumeysadogan?tab=followers)
+[![GitHub stars](https://img.shields.io/github/stars/rumeysadogan?style=flat&logo=github&)](https://github.com/rumeysadogan?tab=repositories)
+<!--- [![Github visitors](https://visitor-badge.glitch.me/badge?page_id=kalayciburak.visitor-badge)](https://gitHub.com/kalayciburak) -->
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href=" www.linkedin.com/in/rümeysa-dogan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rumeysa dogan" height="30" width="40" /></a>
 <a href="https://medium.com/@rumeyysadgn" target="blank"><img align="center" src="https://cdns.iconmonstr.com/wp-content/releases/preview/2018/240/iconmonstr-medium-1.png" alt="rumeysa dogan" height="30" width="33" /></a>
 </p>
-<h3 align="left">Languages and Tools:</h3>
-<p align="left">  
+
   <a href="https://angular.io/" target="_blank" rel="noreferrer"> <img src="https://angular.io/assets/images/logos/angularjs/AngularJS-Shield.svg" alt="html5" width="40" height="40"/> </a>  
    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> 
   <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a>  
@@ -23,7 +28,7 @@
   
   ![Snake animation](https://github.com/gabrielpondaco/gabrielpondaco/blob/output/github-contribution-grid-snake.svg)
  
- 
+ </div>
  
  
  

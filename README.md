@@ -52,8 +52,8 @@
 
 
   <!-- <p>
-  <a href="https://github.com/kalayciburak?tab=repositories" target="_blank">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kalayciburak&layout=compact&show_icons=true&theme=nord">
+  <a href="https://github.com/rumeysadogan?tab=repositories" target="_blank">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rumeysadogan&layout=compact&show_icons=true&theme=dracula">
   </a>
   </p> -->
 

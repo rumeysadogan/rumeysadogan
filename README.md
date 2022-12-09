@@ -48,7 +48,7 @@
   </a>
   </p>
 
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=torukobyte&theme=nord&v=2&layout=compact&langs_count=10&hide=Markdown,Config,xml,yaml,json,Cocoa,Solution+file,Csproj,textmate,Gitignore+file,Other,Text,cshtml,Groovy,IL,AUTO_DETECTED,csharp,Jsonc,Publish+Profile+file)](https://github.com/kalayciburak)
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=torukobyte&theme=nord&v=2&layout=compact&langs_count=10&hide=Markdown,Config,xml,yaml,json,Cocoa,Solution+file,Csproj,textmate,Gitignore+file,Other,Text,cshtml,Groovy,IL,AUTO_DETECTED,csharp,Jsonc,Publish+Profile+file)](https://github.com/rumeysadogan)
 
 
   <!-- <p>
@@ -57,6 +57,6 @@
   </a>
   </p> -->
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=kalayciburak&theme=nord)](https://github.com/kalayciburak)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=rumeysadogan&theme=dracula)](https://github.com/rumeysadogan)
 </div>
 

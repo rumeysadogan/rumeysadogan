@@ -34,8 +34,8 @@
  
  <div align="center">
 
-[![GitHub followers](https://img.shields.io/github/followers/kalayciburak?style=flat&logo=github)](https://github.com/kalayciburak?tab=followers)
-[![GitHub stars](https://img.shields.io/github/stars/kalayciburak?style=flat&logo=github&)](https://github.com/kalayciburak?tab=repositories)
+[![GitHub followers](https://img.shields.io/github/followers/rumeysadogan?style=flat&logo=github)](https://github.com/rumeysadogan?tab=followers)
+[![GitHub stars](https://img.shields.io/github/stars/rumeysadogan?style=flat&logo=github&)](https://github.com/rumeysadogan?tab=repositories)
 <!--- [![Github visitors](https://visitor-badge.glitch.me/badge?page_id=kalayciburak.visitor-badge)](https://gitHub.com/kalayciburak) -->
 
 <!-- <img src="https://c.tenor.com/GKlLEY5omHwAAAAC/bored-anime.gif"> -->
